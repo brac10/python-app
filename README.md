@@ -1,4 +1,4 @@
-# python application using pyinstaller
+# python application
 
 This repository is for the
 [Build a Python app with PyInstaller](https://jenkins.io/doc/tutorials/build-a-python-app-with-pyinstaller/)
